@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myresumeorganizer-dev-c9ecf-authRole",
+      "UnauthRoleArn": "arn:aws:iam::060795930244:role/amplify-myresumeorganizer-dev-c9ecf-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::060795930244:role/amplify-myresumeorganizer-dev-c9ecf-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-myresumeorganizer-dev-c9ecf-deployment",
+      "UnauthRoleName": "amplify-myresumeorganizer-dev-c9ecf-unauthRole",
+      "StackName": "amplify-myresumeorganizer-dev-c9ecf",
+      "StackId": "arn:aws:cloudformation:us-east-1:060795930244:stack/amplify-myresumeorganizer-dev-c9ecf/181354b0-804a-11ef-9ad1-0e0660977f83",
+      "AmplifyAppId": "d3kco6ik9n8cya"
+    },
+    "categories": {
+      "auth": {
+        "myresumeorganizerd47cbc1f": {},
+        "myresumeorganizere259e4e7": {}
+      },
+      "api": {
+        "myresumeorganizer": {}
+      },
+      "storage": {
+        "resumeFiles": {}
+      }
+    }
+  }
+}
